@@ -1,6 +1,8 @@
 
 # todolist
 **Todolist Webapp using javascript, ejs and mongodb**
+- Webapp has been deployed on heroku at: https://blooming-wildwood-63945.herokuapp.com/ with mongodb.
+
 
 - The project needs mongoDB installed and `mongod` running on localhost.
 - npm modules need to be installed by using below command
